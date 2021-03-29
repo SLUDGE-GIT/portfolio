@@ -224,6 +224,21 @@ main {
   background-image: url("../images/horiseon_preview.jpg");
 }
 
+.Boredify-Project {
+background-image: url("../images/boredify_preview.jpg");
+}
+
+.Weather-Dashboard {
+background-image: url("../images/weather_preview.jpg");
+}
+
+.Password-Generator {
+background-image: url("../images/password_preview.jpg");
+}
+
+.Code-Quiz {
+background-image: url("../images/quiz_preview.jpg");
+}
 /* end portfolio project images */
 
 @media screen and (max-width: 980px) {
